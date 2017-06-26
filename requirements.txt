@@ -2,3 +2,5 @@ numpy
 tensorflow
 jupyter
 rise
+scikit-learn
+scipy
