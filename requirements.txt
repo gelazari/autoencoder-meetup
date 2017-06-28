@@ -4,3 +4,4 @@ jupyter
 rise
 scikit-learn
 scipy
+matplotlib
